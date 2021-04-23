@@ -17,7 +17,7 @@
 <a href="https://github.com/ZainLLL">
   <img align="center" src="https://github-readme-stats-psi-beryl.vercel.app/api?username=ZainLLL&theme=onedark&hide=prs,issues&show_icons=true" alt="ZainLLL's GitHub Stats"  height="130" hspace="5" vspace="5"/>
 </a>
-
-<a>
+<p><p>
+<a href="https://github.com/ZainLLL">
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZainLLL&theme=onedark" alt="Wakatime State"  height="130" vspace="5"/>
 </a>
