@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ZainLLL)
 ![GitHub followers](https://img.shields.io/github/followers/ZainLLL?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Zain_LLL?label=ZainLLL&style=social)
 
 ## About Me :sparkles:
 - :boy: Undergraduate of School of Cyber Security and Engineering, SJTU.
@@ -19,5 +20,5 @@
 </a>
 <p><p>
 <a href="https://github.com/ZainLLL">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZainLLL&theme=onedark" alt="Wakatime State"  height="130" vspace="5"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ZainLLL&theme=onedark" alt="Wakatime State"  height="130" vspace="5" hspace="5"/>
 </a>
