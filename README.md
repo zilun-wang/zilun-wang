@@ -7,9 +7,9 @@
 # Github Stats :triangular_flag_on_post:
 
 <a href="https://github.com/ZainLLL">
-  <img align="center" src="https://github-readme-stats-snowy.vercel.app/api/top-langs/?username=ZainLLL&layout=compact&theme=onedark&&langs_count=5" alt="ZainLLL's Top Language"  width="45%" height="100"/>
+  <img align="center" src="https://github-readme-stats-psi-beryl.vercel.app/api/top-langs/?username=ZainLLL&layout=compact&theme=onedark&&langs_count=5" alt="ZainLLL's Top Language"  width="45%" height="100"/>
 </a>
 
 <a href="https://github.com/ZainLLL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZainLLL&theme=onedark&hide=prs,issues&show_icons=true" alt="ZainLLL's GitHub Stats"  width="45%" height="100"/>
+  <img align="center" src="https://github-readme-stats-psi-beryl.vercel.app/api?username=ZainLLL&theme=onedark&hide=prs,issues&show_icons=true" alt="ZainLLL's GitHub Stats"  width="45%" height="100"/>
 </a>
