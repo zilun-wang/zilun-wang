@@ -1,9 +1,5 @@
 # Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ZainLLL)
-![GitHub followers](https://img.shields.io/github/followers/ZainLLL?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/Zain_LLL?label=ZainLLL&style=social)
-
 ## About Me :sparkles:
 - :boy: Undergraduate of School of Cyber Security and Engineering, SJTU.
 - :computer: A struggling learner in computer science.
